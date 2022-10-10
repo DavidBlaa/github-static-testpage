@@ -1,1 +1,1 @@
-# GitHubTestPage
+# github-static-testpage
